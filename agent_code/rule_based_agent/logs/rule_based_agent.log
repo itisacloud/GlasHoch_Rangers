@@ -1,0 +1,4 @@
+2023-09-06 14:35:05,284 [rule_based_agent_code] DEBUG: Successfully entered setup code
+2023-09-06 14:35:05,395 [rule_based_agent_code] INFO: Picking action according to rule set
+2023-09-06 14:35:05,395 [rule_based_agent_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2023-09-06 14:35:05,395 [rule_based_agent_code] DEBUG: Suitable target found at (14, 1)
